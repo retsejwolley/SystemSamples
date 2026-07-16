@@ -20,7 +20,7 @@ This repository **does not** use an open-source license (such as MIT). By access
 - **Community Standing:** Sharing or redistributing these assets outside of our approved channels will result in an immediate and permanent ban from our Discord community and all future project support.
 
 ### 3. Attribution
-Attribution is highly appreciated! If you use these systems in a published Roblox project, crediting **retsejwolley** in your game credits or description is highly encouraged, but not strictly required unless agreed upon separately for custom commissions.
+Attribution is appreciated but not required. If you use these systems in a published Roblox experience, consider crediting retsejwolley in your game's credits or description.
 
 ---
 
